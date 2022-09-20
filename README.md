@@ -1,5 +1,5 @@
 <h1 align="center">
-  NpsCalc
+  NlwEsports Server
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ## 💻 Projeto
 
-Aplicação para cálculo de nps a partir de pesquisas feitas por email.
+Aplicação para servir dados de games e anúncios.
 
 ## ✨ Tecnologias
 
@@ -15,17 +15,12 @@ Aplicação para cálculo de nps a partir de pesquisas feitas por email.
 - [ ] Typescript
 - [ ] Express
 - [ ] Prisma
-- [ ] Yup
-- [ ] Jest
-- [ ] Supertest
-- [ ] NodeMailer
 
 ## :hammer_and_wrench: Features
 
-- [ ] Criação de Usuários
-- [ ] Criação de Pesquisas
-- [ ] Envio de Email
-- [ ] Cálculo Nps
+- [ ] Criação de Games
+- [ ] Criação de Anpuncios
+- [ ] Listagem de Games
 
 ## Executando o projeto
 
